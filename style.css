@@ -71,3 +71,11 @@ margin-bottom: 7px;
 }
 .contact-right img{
     width: 500px;}
+@media(max-width:800px){
+    .contact-info{
+        width: 80vw;
+    }
+    .contact-right{
+        display:none;
+    }
+}
